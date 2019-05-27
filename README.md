@@ -1,2 +1,3 @@
 # supu
-php推送工具，目前仅支持websocket协议
+websocket server
+light-weight\easy-to-use\Ai ability
